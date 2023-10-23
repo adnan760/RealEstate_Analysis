@@ -1,0 +1,3 @@
+RealEstateEnv/
+service_account.json
+*.env
